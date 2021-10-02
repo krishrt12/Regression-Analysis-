@@ -1,4 +1,4 @@
-# Regression-Analysis-
+# Read me
 
 This is a project I finished in the beginning of May-June 2021.
 
